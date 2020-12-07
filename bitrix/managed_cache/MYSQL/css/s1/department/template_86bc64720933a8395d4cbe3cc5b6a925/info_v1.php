@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/department/frontend/build/css/6.app.min.775545ee.css" => "15953441933752","/local/templates/department/frontend/build/css/app.min.9366190d.css" => "160677722990020",]; ?>

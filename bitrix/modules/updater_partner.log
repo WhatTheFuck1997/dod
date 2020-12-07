@@ -1,0 +1,41 @@
+2020-12-06 21:31:40 -  - exec CUpdateClientPartner::SearchModulesEx
+2020-12-06 21:31:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:31:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=dod.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.2.29&NGINX=Y&dbv=5.7.29&instm=main%2C20.5.393%2CY%3Bb24connector%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bblog%2C20.0.200%2CN%3Bclouds%2C20.5.0%2CN%3Bfileman%2C20.0.600%2CN%3Bform%2C18.0.0%2CN%3Bforum%2C20.0.600%2CN%3Bhighloadblock%2C20.0.300%2CN%3Biblock%2C20.0.800%2CN%3Blanding%2C20.4.50%2CN%3Bmessageservice%2C20.5.0%2CN%3Bmobileapp%2C20.0.100%2CN%3Bperfmon%2C20.5.0%2CN%3Bphotogallery%2C20.0.100%2CN%3Brest%2C20.0.700%2CN%3Bscale%2C17.5.0%2CN%3Bsearch%2C20.5.0%2CN%3Bsecurity%2C20.5.0%2CN%3Bseo%2C20.0.200%2CN%3Bsocialservices%2C20.0.200%2CN%3Bsubscribe%2C20.5.0%2CN%3Btranslate%2C19.0.600%2CN%3Bui%2C20.5.450%2CN%3Bvote%2C20.0.400%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1&SUPD_SRS=RU&SUPD_CMP=N
+2020-12-06 21:31:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:31:45 -  - TIME SearchModulesEx(request) 2.812 sec
+2020-12-06 21:31:45 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:31:52 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2020-12-06 21:31:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:31:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=dod.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.2.29&NGINX=Y&dbv=5.7.29&instm=main%2C20.5.393%2CY%3Bb24connector%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bblog%2C20.0.200%2CN%3Bclouds%2C20.5.0%2CN%3Bfileman%2C20.0.600%2CN%3Bform%2C18.0.0%2CN%3Bforum%2C20.0.600%2CN%3Bhighloadblock%2C20.0.300%2CN%3Biblock%2C20.0.800%2CN%3Blanding%2C20.4.50%2CN%3Bmessageservice%2C20.5.0%2CN%3Bmobileapp%2C20.0.100%2CN%3Bperfmon%2C20.5.0%2CN%3Bphotogallery%2C20.0.100%2CN%3Brest%2C20.0.700%2CN%3Bscale%2C17.5.0%2CN%3Bsearch%2C20.5.0%2CN%3Bsecurity%2C20.5.0%2CN%3Bseo%2C20.0.200%2CN%3Bsocialservices%2C20.0.200%2CN%3Bsubscribe%2C20.5.0%2CN%3Btranslate%2C19.0.600%2CN%3Bui%2C20.5.450%2CN%3Bvote%2C20.0.400%2CN&reqm=nsandrey.emptyinstall&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2020-12-06 21:31:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:31:53 -  - TIME LoadModulesUpdates(request) 0.634 sec
+2020-12-06 21:31:53 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:31:53 - S - STEP
+2020-12-06 21:31:53 - LM4W01 - loadModule4Wizard-Step
+2020-12-06 21:31:53 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2020-12-06 21:31:53 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:31:53 -  - loadFile
+2020-12-06 21:31:54 - U - RETURN
+2020-12-06 21:31:54 -  - exec CUpdateClientPartner::UnGzipArchive
+2020-12-06 21:31:54 -  - TIME UnGzipArchive 0.223 sec
+2020-12-06 21:31:54 -  - TIME UpdateStepModules 0.088 sec
+2020-12-06 21:31:55 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2020-12-06 21:31:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:31:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=dod.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.2.29&NGINX=Y&dbv=5.7.29&instm=main%2C20.5.393%2CY%3Bb24connector%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bblog%2C20.0.200%2CN%3Bclouds%2C20.5.0%2CN%3Bfileman%2C20.0.600%2CN%3Bform%2C18.0.0%2CN%3Bforum%2C20.0.600%2CN%3Bhighloadblock%2C20.0.300%2CN%3Biblock%2C20.0.800%2CN%3Blanding%2C20.4.50%2CN%3Bmessageservice%2C20.5.0%2CN%3Bmobileapp%2C20.0.100%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Bperfmon%2C20.5.0%2CN%3Bphotogallery%2C20.0.100%2CN%3Brest%2C20.0.700%2CN%3Bscale%2C17.5.0%2CN%3Bsearch%2C20.5.0%2CN%3Bsecurity%2C20.5.0%2CN%3Bseo%2C20.0.200%2CN%3Bsocialservices%2C20.0.200%2CN%3Bsubscribe%2C20.5.0%2CN%3Btranslate%2C19.0.600%2CN%3Bui%2C20.5.450%2CN%3Bvote%2C20.0.400%2CN&reqm=nsandrey.emptyinstall&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2020-12-06 21:31:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:31:55 -  - TIME LoadModulesUpdates(request) 0.497 sec
+2020-12-06 21:31:55 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:31:55 - STEP - Finish - NOUPDATES
+2020-12-06 21:31:55 - LM4W03 - Finish - NOUPDATES
+2020-12-06 21:32:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:32:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:32:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=dod.loc&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=7.2.29&NGINX=Y&dbv=5.7.29&instm=main%2C20.5.393%2CY%3Bb24connector%2C20.5.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bbitrix.siteinfoportal%2C15.5.0%2CN%3Bbitrix.sitepersonal%2C15.5.0%2CN%3Bbitrixcloud%2C20.5.0%2CN%3Bblog%2C20.0.200%2CN%3Bclouds%2C20.5.0%2CN%3Bfileman%2C20.0.600%2CN%3Bform%2C18.0.0%2CN%3Bforum%2C20.0.600%2CN%3Bhighloadblock%2C20.0.300%2CN%3Biblock%2C20.0.800%2CN%3Blanding%2C20.4.50%2CN%3Bmessageservice%2C20.5.0%2CN%3Bmobileapp%2C20.0.100%2CN%3Bnsandrey.emptyinstall%2C1.0.5%2CN%3Bperfmon%2C20.5.0%2CN%3Bphotogallery%2C20.0.100%2CN%3Brest%2C20.0.700%2CN%3Bscale%2C17.5.0%2CN%3Bsearch%2C20.5.0%2CN%3Bsecurity%2C20.5.0%2CN%3Bseo%2C20.0.200%2CN%3Bsocialservices%2C20.0.200%2CN%3Bsubscribe%2C20.5.0%2CN%3Btranslate%2C19.0.600%2CN%3Bui%2C20.5.450%2CN%3Bvote%2C20.0.400%2CN&reqm=bitrix.sitecorporate%2Cbitrix.siteinfoportal%2Cbitrix.sitepersonal%2Cnsandrey.emptyinstall&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:32:55 -  - TIME GetUpdatesList(request) 0.484 sec
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::ParseServerData
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2020-12-06 21:32:55 -  - exec CUpdateClientPartner::ParseServerData
